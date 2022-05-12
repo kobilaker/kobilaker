@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kobilaker
 - 👀 I’m interested in block chain and Web3 technologies
-- 🌱 I’m currently learning various subjects in my Computer Science Masters program
+- 🌱 Computer Science Masters student - Information Security focus
 - 💞️ I’m looking to collaborate on any interesting and world-aiding problems!
 - 📫 How to reach me: kobilaker@protonmail.com and at www.kobilaker.com
