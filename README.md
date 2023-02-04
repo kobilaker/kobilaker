@@ -2,4 +2,4 @@
 - 👀 I’m interested in block chain and Web3 technologies
 - 🌱 Computer Science Masters student - Information Security focus
 - 💞️ I’m looking to collaborate on any interesting and world-aiding problems!
-- 📫 How to reach me: kobilaker@protonmail.com and at www.kobilaker.com
+- 📫 How to reach me: kobilaker@protonmail.com 
